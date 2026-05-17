@@ -86,8 +86,8 @@ I'm an Electrical & Electronic Engineering graduate from **Singapore Polytechnic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mabms05-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabms05-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&text_color=C9D1D9" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mabms05-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=C9D1D9" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mabms05-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&text_color=C9D1D9" alt="Top Languages" height="170" />
 
 </div>
 
